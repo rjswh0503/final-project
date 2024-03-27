@@ -110,10 +110,13 @@ Get을 사용하여 Spring Boot API에서 데이터를 가져와서 상품리스
 한 페이지당 4개의 아이템만 보이게 Slide 구현
 
 <br>
+
 ![스크린샷 2024-03-11 오후 7 10 12](https://github.com/rjswh0503/final-project/assets/141482043/61f5eaa5-a14c-4763-b5ee-4764f02f822d)
 <br>
+
 ![스크린샷 2024-03-11 오후 7 16 40](https://github.com/rjswh0503/final-project/assets/141482043/b21c244e-2db1-4c02-b45b-74245603125c)
 <br>
+
 상품 클릭시 상품 상세정보 페이지로 이동
 
 상세정보는  useParams훅을 사용하여 productId 매개변수를 추출하여 구현
